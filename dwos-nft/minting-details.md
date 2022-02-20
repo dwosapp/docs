@@ -4,7 +4,7 @@ description: Detailed docs about DWoS minting.
 
 # 👩🎨 Minting details
 
-### Minting date: TBD
+### Minting date: 25 March
 
 ### Minting price: 2.5◎
 
