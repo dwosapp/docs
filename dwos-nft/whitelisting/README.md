@@ -20,12 +20,12 @@ Getting whitelisted doesn't secure you a minting spot, as we have 4000 spots for
 
 We have divided the whitelist spots distribution into multiple categories, not including spots distributed to partner's holders and spots earned by attending or participating in a hosted event.
 
-{% content-ref url="early-adopters.md" %}
-[early-adopters.md](early-adopters.md)
-{% endcontent-ref %}
-
 {% content-ref url="og.md" %}
 [og.md](og.md)
+{% endcontent-ref %}
+
+{% content-ref url="early-adopters.md" %}
+[early-adopters.md](early-adopters.md)
 {% endcontent-ref %}
 
 
