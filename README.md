@@ -66,20 +66,20 @@ Here comes the transition of governance, everything is under the control of the 
 
 All pages here describes itself.
 
-{% content-ref url="utilities/pfp.md" %}
-[pfp.md](utilities/pfp.md)
+{% content-ref url="utilities/tokenomics.md" %}
+[tokenomics.md](utilities/tokenomics.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/minting-giveaways.md" %}
 [minting-giveaways.md](utilities/minting-giveaways.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilities/raffles.md" %}
-[raffles.md](utilities/raffles.md)
-{% endcontent-ref %}
-
 {% content-ref url="utilities/staking.md" %}
 [staking.md](utilities/staking.md)
+{% endcontent-ref %}
+
+{% content-ref url="utilities/raffles.md" %}
+[raffles.md](utilities/raffles.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/donations.md" %}
@@ -98,16 +98,6 @@ All pages here describes itself.
 [royalties-and-profits.md](utilities/royalties-and-profits.md)
 {% endcontent-ref %}
 
-
-
-## Partnerships
-
-Every page will be dedicated to a specific partner, and each will have a partnership details and a sub-page mentioning whitelisted wallet address given by the partner.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="utilities/pfp.md" %}
+[pfp.md](utilities/pfp.md)
 {% endcontent-ref %}
