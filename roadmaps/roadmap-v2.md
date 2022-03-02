@@ -1,6 +1,6 @@
 ---
 description: >-
-  DWoS has been continuously growing, and the power of DWoS is now transferred
+  DWOS has been continuously growing, and the power of DWOS is now transferred
   to the holders!
 ---
 

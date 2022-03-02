@@ -12,35 +12,47 @@ description: This is our projected initial roadmap.
 
 ### Step 1
 
-Our main concentration in this step is building.
+Our main concentration in this step are pre-minting tasks, and building project and community.
 
 * [ ] Building a supportive and healthy community that shares the same passion and goal of this project.
-* [ ] Moderators assigning.
+* [x] Moderators assigning.
 * [ ] Social media presence.
-* [ ] DWoS initial website release.
-* [ ] Pre-minting hosted social events.
+* [x] DWOS initial website release.
+* [x] Pre-minting weekly activity schedule.
+* [ ] Developing "post-minting tasks" started.
+* [x] Team doxed.
+* [ ] Art is delivered.
+* [ ] 13 Epic 1:1 revealed.
+* [x] Discord server re-configuration.
+* [ ] Promotional campaign.
 
 ### Step 2
 
-This step mostly include all pre-minting activities and projected accomplishments.
+A phase that comes between pre-minting and post-minting.
 
-* [ ] Starting the distribution of whitelist spots.
-* [ ] Updating DWoS website.
+* [x] Starting the distribution of whitelist spots.
+* [ ] Updating DWOS website.
 * [ ] More pre-minting hosted events.
-* [ ] DWoS minting!
+* [ ] Donation center voting.
+* [ ] DWOS minting!
 * [ ] Secondary marketplace listing.
+* [ ] $tDWOS and $gDWOS airdrop.
 * [ ] Staking initiated.
-* [ ] Minting giveaways.
+* [ ] Minting giveaway.
 * [ ] Initial donation.
+* [ ] One more DWOS website update.
+* [ ] RadRugs review.
 
 ### Step 3
 
 By now minting has finished, so let's head to this post-minting roadmap.
 
-* [ ] Staking giveaways.
-* [ ] DAO-ws to be created.
-* [ ] One more DWoS website update.
+* [ ] DAO to be created.
+* [ ] Discord server post-minting re-configuration.
+* [ ] Partner's staking initiated.
+* [ ] Raffle system released.
 * [ ] First voting proposal takes place.
-* [ ] Revealing and Auction starting on our epic 13 doodles.
+* [ ] Raffles started taking place in our ecosystem.
+* [ ] The Epic 13 1:1 auctions started.
 * [ ] First royalties distribution, and the rest to follow.
 * [ ] Merch Merch Merch!

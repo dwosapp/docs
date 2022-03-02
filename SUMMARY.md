@@ -5,14 +5,12 @@
 ## 🎨 DWoS NFT
 
 * [❓ What is NFT?](dwos-nft/what-is-nft.md)
-* [👑 What about DWoS?](dwos-nft/what-about-dwos.md)
+* [👑 What about DWOS?](dwos-nft/what-about-dwos.md)
 * [👩🎨 Minting details](dwos-nft/minting-details.md)
 * [🏁 Whitelisting](dwos-nft/whitelisting/README.md)
-  * [1⃣ Early adopters v1](dwos-nft/whitelisting/early-adopters-v1.md)
-  * [2⃣ Early adopters v2](dwos-nft/whitelisting/early-adopters-v2.md)
-  * [3⃣ Early adopters v3](dwos-nft/whitelisting/early-adopters-v3.md)
+  * [💟 OG](dwos-nft/whitelisting/og.md)
+  * [🐤 Early adopters](dwos-nft/whitelisting/early-adopters.md)
   * [🎁 Earned spots](dwos-nft/whitelisting/earned-spots.md)
-  * [☎ Partners](dwos-nft/whitelisting/partners.md)
 * [📰 PR / Media](dwos-nft/pr-media.md)
 
 ## 🛣 Roadmaps
@@ -22,21 +20,15 @@
 
 ## ⚙ Utilities
 
-* [🖼 PFP](utilities/pfp.md)
+* [🪙 Tokenomics](utilities/tokenomics.md)
 * [🎉 Minting giveaways](utilities/minting-giveaways.md)
 * [🥩 Staking](utilities/staking.md)
-* [💎 Staking giveaways](utilities/staking-giveaways.md)
+* [🎟 Raffles](utilities/raffles.md)
 * [💌 Donations](utilities/donations.md)
-* [🏛 DAO-ws](utilities/dao-ws.md)
+* [🏛 DAO](utilities/dao.md)
 * [👘 Merch](utilities/merch.md)
 * [💰 Royalties and profits](utilities/royalties-and-profits.md)
-
-## 🤝 Partnerships
-
-* [Partner #1](partnerships/partner-1/README.md)
-  * [Whitelisted](partnerships/partner-1/whitelisted.md)
-* [Partner #2](partnerships/partner-2/README.md)
-  * [Whitelisted](partnerships/partner-2/whitelisted.md)
+* [🖼 PFP](utilities/pfp.md)
 
 ## 🛰 Links
 

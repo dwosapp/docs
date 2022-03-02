@@ -58,7 +58,7 @@ Details about our projected roadmap.
 [roadmap-v2.md](roadmaps/roadmap-v2.md)
 {% endcontent-ref %}
 
-Here comes the transition of governance, everything is under the control of the DWoS holders.
+Here comes the transition of governance, everything is under the control of the DWOS holders.
 
 
 
@@ -74,8 +74,8 @@ All pages here describes itself.
 [minting-giveaways.md](utilities/minting-giveaways.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilities/staking-giveaways.md" %}
-[staking-giveaways.md](utilities/staking-giveaways.md)
+{% content-ref url="utilities/raffles.md" %}
+[raffles.md](utilities/raffles.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/staking.md" %}
@@ -86,8 +86,8 @@ All pages here describes itself.
 [donations.md](utilities/donations.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilities/dao-ws.md" %}
-[dao-ws.md](utilities/dao-ws.md)
+{% content-ref url="utilities/dao.md" %}
+[dao.md](utilities/dao.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/merch.md" %}
@@ -104,10 +104,10 @@ All pages here describes itself.
 
 Every page will be dedicated to a specific partner, and each will have a partnership details and a sub-page mentioning whitelisted wallet address given by the partner.
 
-{% content-ref url="partnerships/partner-1/" %}
-[partner-1](partnerships/partner-1/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="partnerships/partner-2/" %}
-[partner-2](partnerships/partner-2/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

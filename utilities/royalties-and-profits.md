@@ -11,30 +11,49 @@ description: Let's talk money.
 
 
 {% hint style="info" %}
-#### Royalties and profits distribution have been planned by the team as long as the team has the control over the project, and has the possibility to change due to DAO-ws decision.
+#### Royalties and profits distribution have been planned by the team as long as the team has the control over the project, and has the possibility to change due to DAO decision.
 {% endhint %}
 
 
 
-### Royalties distribution
+{% hint style="warning" %}
+#### All royalties and profits distribution has been updated, and now it's more specified.
+{% endhint %}
 
-|       Holders      | 40% |
+
+
+### Secondary market royalties distribution
+
+| **Total royalties** | **10%** |
+| :-----------------: | :-----: |
+|       Holders       |   40%   |
+|         DAO         |   40%   |
+|  Team and Marketing |   20%   |
+
+
+
+### DWOS ecosystem profits distribution
+
+|       Holders      | 25% |
 | :----------------: | :-: |
-|       DAO-ws       | 40% |
-| Team and Marketing | 20% |
+|         DAO        | 55% |
+|      Donation      | 10% |
+| Team and Marketing | 10% |
 
 
 
-### Profits distribution
-
-#### - Merch
+### Merch profits distribution
 
 |       Holders      | 35% |
 | :----------------: | :-: |
-|       DAO-ws       | 25% |
-|      Donation      | 25% |
+|         DAO        | 30% |
+|      Donation      | 20% |
 | Team and Marketing | 15% |
 
-#### - DAO-ws profits
 
-TBA, after DAO-ws decision.
+
+### DAO profits distribution
+
+|       Holders      | 10% |
+| :----------------: | :-: |
+| Team and Marketing |  5% |

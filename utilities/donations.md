@@ -20,7 +20,7 @@ description: With love.
 
 
 
-#### Getting back to the docs, meanwhile as we have the control over DWoS project, we will choose to whom to initially donate. But whatever donation next will be a community driven donation with an approval of most holders, or as how the DAO-ws voting mechanism are at that time.
+#### Getting back to the docs, meanwhile as we have the control over DWOS project, we will choose to whom to initially donate. But whatever donation next will be a community driven donation with an approval of most holders, or as how the DAO voting mechanism are at that time.
 
 
 

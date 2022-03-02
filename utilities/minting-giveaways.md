@@ -4,7 +4,7 @@ description: Do you think you have enough luck today?
 
 # 🎉 Minting giveaways
 
-#### We in DWoS loves giving, and as we are building a giving community, we will offer you some minting giveaways. After the DWoS minting finishes, we will announce the rules to get eligible for this minting giveaway. However, we planned how the winning structure looks like and who will win what.
+#### We in DWOS loves giving, and as we are building a giving community, we will offer you some minting giveaways. After the DWOS minting finishes, we will announce the rules to get eligible for this minting giveaway. However, we planned how the winning structure looks like and who will win what.
 
 
 
