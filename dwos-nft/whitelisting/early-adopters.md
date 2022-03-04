@@ -4,7 +4,7 @@ description: How to enroll in Early adopters whitelist.
 
 # 🐤 Early adopters
 
-### Early adopters spots: 1000 / 4000
+### Early adopters spots: 500 - 700 / 1000
 
 ### Early adopters end date: Please refer to our discord server.
 

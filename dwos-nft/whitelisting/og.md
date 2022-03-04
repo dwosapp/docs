@@ -4,7 +4,7 @@ description: This is only for our true believer, even before they see our work.
 
 # 💟 OG
 
-### OG spots: 30 / 4000
+### OG spots: 30 / 1000
 
 ### OG end date: Please refer to our discord server.
 

@@ -4,17 +4,7 @@ description: Not yet whitelisted? Here's how to.
 
 # 🏁 Whitelisting
 
-{% hint style="danger" %}
-Getting whitelisted doesn't secure you a minting spot, as we have 4000 spots for 3987 nfts. Though, we believe not all whitelisted people will mint.
-{% endhint %}
-
-
-
-### Whitelist spots: 4000
-
-#### We know having this much of a WL spots makes it harder for non-whitelisted people to mint, but this will increase diversity in holders, as well as the effect of a single NFT per wallet max minting. We believe that this strategy will work the best with our roadmap.
-
-
+### Whitelist spots: 1000
 
 ### Whitelisting mechanism
 
