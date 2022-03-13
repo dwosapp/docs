@@ -36,6 +36,14 @@ Date, Price, and all other minting details can be found here.
 
 
 
+{% content-ref url="dwos-nft/presale.md" %}
+[presale.md](dwos-nft/presale.md)
+{% endcontent-ref %}
+
+How to buy in presale? and why?
+
+
+
 {% content-ref url="dwos-nft/whitelisting/" %}
 [whitelisting](dwos-nft/whitelisting/)
 {% endcontent-ref %}
@@ -66,8 +74,8 @@ Here comes the transition of governance, everything is under the control of the 
 
 All pages here describes itself.
 
-{% content-ref url="utilities/tokenomics.md" %}
-[tokenomics.md](utilities/tokenomics.md)
+{% content-ref url="utilities/tokenomics-v2.md" %}
+[tokenomics-v2.md](utilities/tokenomics-v2.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/minting-giveaways.md" %}
@@ -78,12 +86,16 @@ All pages here describes itself.
 [staking.md](utilities/staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilities/raffles.md" %}
-[raffles.md](utilities/raffles.md)
+{% content-ref url="utilities/raffle-system.md" %}
+[raffle-system.md](utilities/raffle-system.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/donations.md" %}
 [donations.md](utilities/donations.md)
+{% endcontent-ref %}
+
+{% content-ref url="utilities/community-wallet.md" %}
+[community-wallet.md](utilities/community-wallet.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/dao.md" %}

@@ -7,6 +7,7 @@
 * [❓ What is NFT?](dwos-nft/what-is-nft.md)
 * [👑 What about DWOS?](dwos-nft/what-about-dwos.md)
 * [👩🎨 Minting details](dwos-nft/minting-details.md)
+* [🏃♀ Presale](dwos-nft/presale.md)
 * [🏁 Whitelisting](dwos-nft/whitelisting/README.md)
   * [💟 OG](dwos-nft/whitelisting/og.md)
   * [🐤 Early adopters](dwos-nft/whitelisting/early-adopters.md)
@@ -20,11 +21,12 @@
 
 ## ⚙ Utilities
 
-* [🪙 Tokenomics](utilities/tokenomics.md)
+* [🪙 Tokenomics v2](utilities/tokenomics-v2.md)
 * [🎉 Minting giveaways](utilities/minting-giveaways.md)
 * [🥩 Staking](utilities/staking.md)
-* [🎟 Raffles](utilities/raffles.md)
+* [🎟 Raffle System](utilities/raffle-system.md)
 * [💌 Donations](utilities/donations.md)
+* [🏦 Community Wallet](utilities/community-wallet.md)
 * [🏛 DAO](utilities/dao.md)
 * [👘 Merch](utilities/merch.md)
 * [💰 Royalties and profits](utilities/royalties-and-profits.md)
@@ -33,6 +35,5 @@
 ## 🛰 Links
 
 * [DWoS Website](https://dwos.xyz)
-* [Discord](https://discord.gg/BnTbaENnGR)
 * [Twitter](https://twitter.com/DWoSol)
 * [Legal](links/legal.md)
