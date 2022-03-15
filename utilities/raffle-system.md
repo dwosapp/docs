@@ -8,11 +8,10 @@ description: Here comes the charm!
 
 ## General Information:
 
-* Team decided to reserve 5% to 6% of DWOS minting income for the Raffle System budget
-* This budget will be used for buying the raffle pools prizes, marketing, and as an insurance
+* A certain budget will be invested to be used for buying the raffle pools prizes, marketing, and as an insurance
 * There will be two raffle pool types: Regular Raffle Pools, and Special Raffle Pools
 * Raffle pools prizes will include IRL prizes, that can be transferable to $g instead
-* Only DWOS NFT holders will be able to participate in the Raffle System
+* Only DWOS NFT collections holders will be able to participate in the Raffle System
 * Raffle pools entry price is not fixed and will vary from pool to pool, depends on the prize and the entries available
 * Entries will be priced by $t and $g, depends on the raffle pool type
 * Once you buy an entry, you can't refund what you paid
@@ -36,26 +35,25 @@ _For example:_ Raffle Pool #4 - Prize: 10◎ - Entries: 5 - Entry Price: 150 $tD
 
 * For now, you can use your $g to buy entries to the special raffle pools
 * This type has the most valuable prizes, such as huge ◎ giveaways and blue-chip NFTs
-* @Early adopter adopter can manually swap their $t for the respective amount of $g
+* Holders can manually swap their $t for the respective amount of $g
 
 ## How DWOS Raffle System works:
 
-* All $tDWOS and $gDWOS received as a raffle entry/ticket will be sent back to DWOS **community** wallet
+* All $tDWOS and $gDWOS received as a raffle entry/ticket will be sent back to DWOS community wallet
 * Not only DWOS team can create raffle pools, partner projects can also apply to create a raffle with an agreement that should be announced before raffle starts, raffle pool creation fees will be counted as Raffle System Profits
-* Participating in DWOS Raffle System is only for DWOS NFT holders
+* Participating in DWOS Raffle System is only for DWOS NFT collections holders
 
 ## **Raffle System Profits Distribution:**
 
-* The distribution is explained below, though distribution will start once the DAO's investment is back and the system starts working by with its own budget
+* The distribution is explained below, though distribution will start once the DAO's investment is fully back and the system starts working with its own budget
 * Even with the possibility of holders not getting profited from this system in the beginning, holders will get their share of from the profit of this DAO's investment
 * Each DWOS NFT will be treated the same no matter how many you hold, only the Epic DWOS NFTs that will have different share of the profits
 * DAO voting proposal on how to distribute profits to holders: SOL, $t, or $g
 
 ### Distribution:
 
-* **DWOS NFT Holders:** 40%
-* **Epic DWOS NFT Holders:** 10%
+* **DWOS NFT collections Holders:** 40%
 * **DAO:** 20%
 * **Donation:** 5%
-* **Team:** 10%
-* **Back to Raffle System:** 15%
+* **Team:** 15%
+* **Back to Raffle System:** 20%

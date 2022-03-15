@@ -18,39 +18,39 @@ description: >-
 
 Brief information about Non-fungible tokens.
 
-
-
 {% content-ref url="dwos-nft/what-about-dwos.md" %}
 [what-about-dwos.md](dwos-nft/what-about-dwos.md)
 {% endcontent-ref %}
 
 Everything you need to know about our project.
 
-
-
-{% content-ref url="dwos-nft/minting-details.md" %}
-[minting-details.md](dwos-nft/minting-details.md)
+{% content-ref url="dwos-nft/pr-media.md" %}
+[pr-media.md](dwos-nft/pr-media.md)
 {% endcontent-ref %}
 
-Date, Price, and all other minting details can be found here.
+Who said what about DWOS and where?
 
+## Collections
 
-
-{% content-ref url="dwos-nft/presale.md" %}
-[presale.md](dwos-nft/presale.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-How to buy in presale? and why?
-
-
-
-{% content-ref url="dwos-nft/whitelisting/" %}
-[whitelisting](dwos-nft/whitelisting/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-Minting whitelist spots structure, and how to get a whitelist spot?
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ## Roadmaps
 
@@ -60,15 +60,11 @@ Minting whitelist spots structure, and how to get a whitelist spot?
 
 Details about our projected roadmap.
 
-
-
 {% content-ref url="roadmaps/roadmap-v2.md" %}
 [roadmap-v2.md](roadmaps/roadmap-v2.md)
 {% endcontent-ref %}
 
 Here comes the transition of governance, everything is under the control of the DWOS holders.
-
-
 
 ## Utilities
 
@@ -90,8 +86,8 @@ All pages here describes itself.
 [raffle-system.md](utilities/raffle-system.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilities/donations.md" %}
-[donations.md](utilities/donations.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/community-wallet.md" %}
@@ -100,10 +96,6 @@ All pages here describes itself.
 
 {% content-ref url="utilities/dao.md" %}
 [dao.md](utilities/dao.md)
-{% endcontent-ref %}
-
-{% content-ref url="utilities/merch.md" %}
-[merch.md](utilities/merch.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/royalties-and-profits.md" %}

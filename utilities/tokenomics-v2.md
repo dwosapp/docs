@@ -12,7 +12,7 @@ description: Mooneeeyyy!
 
 ```
 Max Supply: 8,000,000 $tDWOS
-Initial Supply: 357,000 $tDWOS
+Initial Supply: 1,000,000 $tDWOS
 ```
 
 * This token will be our mainly used token amongst our ecosystem
@@ -22,26 +22,26 @@ Initial Supply: 357,000 $tDWOS
 
 #### Buy Price:
 
-* 1◎ = 30 $t
-* 0.5◎ = 12 $t
-* 0.1◎ = 2 $t
+* 1◎ = 150 $t
+* 0.5◎ = 65 $t
+* 0.1◎ = 10 $t
 
-#### Sell Price: 1◎ = 55 $t
+#### Sell Price: 1◎ = 300 $t
 
 #### Distribution:
 
-* **Staking (Regular collection, 3987 NFTs), 3 years linear:** 6,000,000 $t
-* **Staking (Epic collection, 13 NFTs), 3 years linear:** 43,000 $t
-* **Staking (Other collections, 3 per 14 days), 3 years linear:** 1,200,000 $t
-* **Community Wallet:** 137,000 $t
-* **Marketing, Collaborations, and Partnerships:** 600,000 $t
-* **Team, 3 years linear:** 20,000 $t
+* **Staking (For all collections, including Epic), 3 years linear:** 4,800,000 $t
+* **Airdrops (For all collections):** 90,000 $t
+* **Staking (Other collections), 3 years linear:** 1,800,000 $t
+* **Community Wallet:** 260,000 $t
+* **Marketing, Collaborations, and Partnerships:** 900,000 $t
+* **Team, 3 years linear:** 150,000 $t
 
 ## $gDWOS, $g
 
 ```
-Max Supply: 560,000 $gDWOS
-Initial Supply: 26,000 $gDWOS
+Max Supply: 1,200,000 $gDWOS
+Initial Supply: 300,000 $gDWOS
 ```
 
 * This token will be the gold of our ecosystem
@@ -50,15 +50,14 @@ Initial Supply: 26,000 $gDWOS
 
 #### Buy Price:
 
-* 1◎ = 10 $g
-* 0.5◎ = 4 $g
+* 1◎ = 12 $g
+* 0.5◎ = 5 $g
 
-#### Sell Price: 1◎ = 25 $g
+#### Sell Price: 1◎ = 40 $g
 
 #### Distribution:
 
-* **Staking (Regular collection, 3987 NFTs), 3 years linear:** 530,000 $g
-* **Staking (Epic collection, 13 NFTs), 3 years linear:** 4,680 $g
-* **Community Wallet:** 17,320 $g
-* **Marketing, Collaborations, and Partnerships:** 5,000 $g
-* **Team, 3 years linear:** 3,000 $g
+* **Staking (For all collections, including Epic), 3 years linear:** 850,000 $g
+* **Community Wallet:** 100,000 $g
+* **Marketing, Collaborations, and Partnerships:** 200,000 $g
+* **Team, 3 years linear:** 50,000 $g

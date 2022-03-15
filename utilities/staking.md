@@ -10,38 +10,34 @@ Each wallet holding at least 1 DWOS nft, will be eligible for staking services.
 
 ## Staking explained:
 
-#### Staking 1 to 44 DWOS NFTs:
+#### Staking Gen1 NFTs:
 
-Approximately 1.28 $t per NFT per day.
+Approximately **3.20 $t** per NFT per day. **$t** airdrops for staked **Gen1** once staked reaches 70%, 90%
 
-* 1 $t per NFT per day
-* 2 $t per NFT per week
-* 1 $g per NFT per week
+* 3 **$t** per NFT per day
+* 1 **$t** per NFT per 5 days
+* 1 **$g** per NFT per 4 days. Before GenMerch
+* 1 **$g** per NFT per 3 days. After GenMerch
 
-#### Staking more than 44 DWOS NFTs:
+#### Staking Gen2 NFTs:
 
-Approximately 2.43 $t per NFT per day.
+Approximately 0.65 $t per NFT per day. **$t** airdrops for staked **Gen2** once staked reaches 80%, 90%
 
-* 2 $t per NFT per day
-* 3 $t per NFT per week
-* 1 $g per NFT per 5 days
+* 1 **$t** per NFT per 2 days
+* 1 **$t** per NFT per week
+* 1 **$g** per NFT per week
 
-#### Staking DWOS Epic NFTs:
+#### Staking GenEpic:
 
-Approximately 3.43 $t per NFT per day.
+Approximately 4.20 $t per NFT per day.
 
-* 3 $t per NFT per day
-* 3 $t per NFT per week
-* 1 $g per NFT per 3 days
+* 4 **$t** per NFT per day
+* 1 **$t** per NFT per 5 days
+* 1 **$g** per NFT per 2 days
 
-#### Staking $gDWOS Token:
+### **How Gen1 Pre-minting Staking works?**
 
-* 1 $t per $g per 3 days
-
-### **How Pre-minting Staking works?**
-
-* To be eligible for pre-minting staking you should be an @Early adopter
-* You will get double the rewards mentioned above until our minting day
-* Automatically starting the minute you buy your Presale DWOS NFT
-* 2.5 $t per NFT per day
+* To be eligible for pre-minting staking you should buy during the presale
+* Automatically starting the minute you buy your presale Gen1 NFT
+* 3 $t per NFT per day. No extra rewards apply
 * 2 $g to be airdropped once on-chain staking goes live

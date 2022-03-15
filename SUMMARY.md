@@ -6,13 +6,19 @@
 
 * [❓ What is NFT?](dwos-nft/what-is-nft.md)
 * [👑 What about DWOS?](dwos-nft/what-about-dwos.md)
-* [👩🎨 Minting details](dwos-nft/minting-details.md)
-* [🏃♀ Presale](dwos-nft/presale.md)
-* [🏁 Whitelisting](dwos-nft/whitelisting/README.md)
-  * [💟 OG](dwos-nft/whitelisting/og.md)
-  * [🐤 Early adopters](dwos-nft/whitelisting/early-adopters.md)
-  * [🎁 Earned spots](dwos-nft/whitelisting/earned-spots.md)
 * [📰 PR / Media](dwos-nft/pr-media.md)
+
+## 🎨 Collections
+
+* [👑 Gen1](collections/gen1/README.md)
+  * [🏃♀ Presale](collections/gen1/presale.md)
+  * [🏁 Whitelisting](collections/gen1/whitelisting/README.md)
+    * [💟 OG](collections/gen1/whitelisting/og.md)
+    * [🎁 Earned spots](collections/gen1/whitelisting/earned-spots.md)
+* [👷♀ Gen2](collections/gen2.md)
+* [🦸♀ GenEpics](collections/genepics.md)
+* [👗 GenMerch](collections/genmerch.md)
+* [👵 GenHistory](collections/genhistory.md)
 
 ## 🛣 Roadmaps
 
@@ -22,18 +28,17 @@
 ## ⚙ Utilities
 
 * [🪙 Tokenomics v2](utilities/tokenomics-v2.md)
-* [🎉 Minting giveaways](utilities/minting-giveaways.md)
+* [🎉 Gen1 Minting Giveaways](utilities/minting-giveaways.md)
 * [🥩 Staking](utilities/staking.md)
 * [🎟 Raffle System](utilities/raffle-system.md)
-* [💌 Donations](utilities/donations.md)
+* [💌 Donation](utilities/donations.md)
 * [🏦 Community Wallet](utilities/community-wallet.md)
 * [🏛 DAO](utilities/dao.md)
-* [👘 Merch](utilities/merch.md)
 * [💰 Royalties and profits](utilities/royalties-and-profits.md)
 * [🖼 PFP](utilities/pfp.md)
 
 ## 🛰 Links
 
-* [DWoS Website](https://dwos.xyz)
+* [DWOS Website](https://dwos.xyz)
 * [Twitter](https://twitter.com/DWoSol)
 * [Legal](links/legal.md)
