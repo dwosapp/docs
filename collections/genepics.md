@@ -25,7 +25,6 @@ _Breakdown_: Fixed auction starting price
 * Automatic **whitelist spot** in every new **project** or **Gen** we release
 * Access to **DWOS Lounge**
 * Every **GenEpic** has a voting power of 5x each
-* **GenEpic** holders will be eligible to participate in our Raffle System, and any other DWOS **ecosystem** we initiate
 
 ## Staking:
 
