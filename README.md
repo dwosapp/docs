@@ -32,24 +32,24 @@ Who said what about DWOS and where?
 
 ## Collections
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="collections/gen1/" %}
+[gen1](collections/gen1/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="collections/gen2.md" %}
+[gen2.md](collections/gen2.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="collections/genepics.md" %}
+[genepics.md](collections/genepics.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="collections/genmerch.md" %}
+[genmerch.md](collections/genmerch.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="collections/genhistory.md" %}
+[genhistory.md](collections/genhistory.md)
 {% endcontent-ref %}
 
 ## Roadmaps
@@ -86,8 +86,8 @@ All pages here describes itself.
 [raffle-system.md](utilities/raffle-system.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="utilities/donations.md" %}
+[donations.md](utilities/donations.md)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/community-wallet.md" %}
