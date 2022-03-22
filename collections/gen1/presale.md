@@ -4,7 +4,7 @@ description: Can I?
 
 # 🏃♀ Presale
 
-## Minting date: Live - 21-03
+## Minting date: ended
 
 ## Minting price: 0.4◎ until 16-03 at 23:55 UTC. 0.5◎ until 21-03 at 23:55 UTC.
 
