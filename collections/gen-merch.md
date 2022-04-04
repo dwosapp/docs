@@ -2,7 +2,7 @@
 description: Detailed GenMerch Information
 ---
 
-# 👗 GenMerch
+# 👗 Gen-Merch
 
 ## Supply: 100
 

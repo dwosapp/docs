@@ -2,7 +2,7 @@
 description: Detailed GenEpics Information
 ---
 
-# 🦸♀ GenEpics
+# 🦸♀ Gen-Epics
 
 ## Supply: 13
 
