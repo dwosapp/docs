@@ -1,20 +1,16 @@
 ---
-description: Detailed Gen1 Information
+description: Detailed Gen-1 Information
 ---
 
-# 👑 Gen1
+# 👑 Gen-1
 
-## Supply: 500
+## Supply: 112
 
-_Breakdown_: Team 40. Giveaway 30. Presale 50. Whitelist 120. Public 260
+## Minting Date: 25th of March
 
-## Minting Date: LIVE until 04-04
+## Minting Price: 0.8◎
 
-_Breakdown_: Presale: 14-03. Whitelist: 24-03. Public: 25-03 until 26-03. **Extended public sale until 04-04**
-
-## Minting Price: 0.4◎ - 1.0◎
-
-_Breakdown_: Presale at 0.4◎ - 0.5◎. Whitelist at 0.6◎. Public at 0.8◎. Extended public at 1.0◎
+_Breakdown_: Whitelist at 0.6◎. Public at 0.8◎
 
 ## Details:
 

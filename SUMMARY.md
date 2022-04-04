@@ -10,15 +10,14 @@
 
 ## 🎨 Collections
 
-* [👑 Gen1](collections/gen1/README.md)
-  * [🏃♀ Presale](collections/gen1/presale.md)
-  * [🏁 Whitelisting](collections/gen1/whitelisting/README.md)
-    * [💟 OG](collections/gen1/whitelisting/og.md)
-    * [🎁 Earned spots](collections/gen1/whitelisting/earned-spots.md)
-* [👷♀ Gen2](collections/gen2.md)
-* [🦸♀ GenEpics](collections/genepics.md)
-* [👗 GenMerch](collections/genmerch.md)
-* [👵 GenHistory](collections/genhistory.md)
+* [👑 Gen-1](collections/gen-1/README.md)
+  * [🏁 Whitelisting](collections/gen-1/whitelisting/README.md)
+    * [💟 OG](collections/gen-1/whitelisting/og.md)
+    * [🎁 Earned spots](collections/gen-1/whitelisting/earned-spots.md)
+* [👷♀ Gen-2](collections/gen-2.md)
+* [🦸♀ Gen-Epics](collections/gen-epics.md)
+* [👗 Gen-Merch](collections/gen-merch.md)
+* [👵 Gen-History](collections/gen-history.md)
 
 ## 🛣 Roadmaps
 
@@ -28,7 +27,6 @@
 ## ⚙ Utilities
 
 * [🪙 Tokenomics v2](utilities/tokenomics-v2.md)
-* [🎉 Gen1 Minting Giveaways](utilities/minting-giveaways.md)
 * [🥩 Staking](utilities/staking.md)
 * [🎟 Raffle System](utilities/raffle-system.md)
 * [💌 Donation](utilities/donations.md)
@@ -39,6 +37,8 @@
 
 ## 🛰 Links
 
-* [DWOS Website](https://dwos.xyz)
+* [DWOS Website](https://dwos.app)
 * [Twitter](https://twitter.com/DWoSol)
+* [Discord](https://discord.gg/gXpvbWftH7)
+* [Instagram](https://instagram.com/DWoSol/)
 * [Legal](links/legal.md)

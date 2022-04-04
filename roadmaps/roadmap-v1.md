@@ -12,19 +12,19 @@ description: This is our projected initial roadmap.
 
 Our main concentration in this step are pre-minting tasks, and building project and community.
 
-* [ ] Building a supportive and healthy community that shares the same passion and goal of this project.
+* [x] Building a supportive and healthy community that shares the same passion and goal of this project.
 * [x] Moderators assigning.
 * [x] Social media presence.
 * [x] DWOS initial website release.
 * [x] Pre-minting weekly activity schedule.
-* [ ] Developing "post-minting tasks" started.
+* [x] Developing "post-minting tasks" started.
 * [x] Team doxed.
-* [ ] Art is delivered.
-* [ ] 13 Epic 1:1 revealed.
+* [x] Art is delivered.
+* [ ] 13 Gen-Epics 1:1 revealed.
 * [x] Discord server re-configuration.
 * [ ] Promotional campaign.
-* [x] Gen1 presale goes Live.
-* [ ] $tDWOS on-chain.
+* [x] Gen-1 presale goes Live.
+* [x] $tDWOS on-chain.
 * [ ] Donation center voting.
 
 ### Step 2
@@ -32,17 +32,17 @@ Our main concentration in this step are pre-minting tasks, and building project 
 A phase that comes between pre-minting and post-minting.
 
 * [x] Tokenomics released
-* [ ] Gen1 minting!
+* [x] Gen-1 minting!
 * [x] Starting the distribution of whitelist spots.
-* [ ] Updating DWOS website.
-* [ ] More pre-minting hosted events.
+* [x] Updating DWOS website.
+* [x] More pre-minting hosted events.
 * [ ] Secondary marketplace listing.
-* [ ] $tDWOS and $gDWOS airdrop.
+* [x] $tDWOS and $gDWOS airdrop.
 * [ ] Staking initiated.
 * [ ] Minting giveaway.
 * [ ] Initial donation.
 * [ ] RadRugs review.
-* [ ] Gen2 presale goes Live.
+* [ ] Gen-2 presale goes Live.
 * [ ] DAO to be created.
 
 ### Step 3

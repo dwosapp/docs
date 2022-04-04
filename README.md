@@ -32,24 +32,24 @@ Who said what about DWOS and where?
 
 ## Collections
 
-{% content-ref url="collections/gen1/" %}
-[gen1](collections/gen1/)
+{% content-ref url="collections/gen-1/" %}
+[gen-1](collections/gen-1/)
 {% endcontent-ref %}
 
-{% content-ref url="collections/gen2.md" %}
-[gen2.md](collections/gen2.md)
+{% content-ref url="collections/gen-2.md" %}
+[gen-2.md](collections/gen-2.md)
 {% endcontent-ref %}
 
-{% content-ref url="collections/genepics.md" %}
-[genepics.md](collections/genepics.md)
+{% content-ref url="collections/gen-epics.md" %}
+[gen-epics.md](collections/gen-epics.md)
 {% endcontent-ref %}
 
-{% content-ref url="collections/genmerch.md" %}
-[genmerch.md](collections/genmerch.md)
+{% content-ref url="collections/gen-merch.md" %}
+[gen-merch.md](collections/gen-merch.md)
 {% endcontent-ref %}
 
-{% content-ref url="collections/genhistory.md" %}
-[genhistory.md](collections/genhistory.md)
+{% content-ref url="collections/gen-history.md" %}
+[gen-history.md](collections/gen-history.md)
 {% endcontent-ref %}
 
 ## Roadmaps
@@ -74,8 +74,8 @@ All pages here describes itself.
 [tokenomics-v2.md](utilities/tokenomics-v2.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilities/minting-giveaways.md" %}
-[minting-giveaways.md](utilities/minting-giveaways.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="utilities/staking.md" %}

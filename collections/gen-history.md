@@ -1,8 +1,8 @@
 ---
-description: Detailed GenHistory Information
+description: Detailed Gen-History Information
 ---
 
-# 👵 GenHistory
+# 👵 Gen-History
 
 ## Supply: -
 

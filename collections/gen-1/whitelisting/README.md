@@ -4,7 +4,7 @@ description: Not yet whitelisted? Here's how to.
 
 # 🏁 Whitelisting
 
-### Whitelist spots: 120
+### Whitelist spots: 72
 
 ### Whitelisting mechanism
 

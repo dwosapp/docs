@@ -1,20 +1,20 @@
 ---
-description: Detailed Gen2 Information
+description: Detailed Gen-2 Information
 ---
 
-# 👷♀ Gen2
+# 👷♀ Gen-2
 
-## Supply: 4000
+## Supply: 4000?
 
-_Breakdown_: Team 300. Airdrops 500. Giveaway 200. Presale 500. Whitelist 1000. Public 1500
+_Breakdown_: -
 
 ## Minting Date: April - May
 
 _Breakdown_: -
 
-## Minting Price: 0.3◎ - 0.65◎
+## Minting Price: 0.3◎ - 0.65◎?
 
-_Breakdown_: Presale at 0.3◎ - 0.4◎. Whitelist at 0.5◎. Public at 0.65◎
+_Breakdown_: -
 
 ## Details:
 

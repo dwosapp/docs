@@ -19,10 +19,10 @@ Owners wallets:
 
 Holders wallets:
 
-* Gen1 = 3x voting power
-* Gen2 = 1x voting power
-* GenEpic = 5x voting power
-* GenMerch = 2x voting power
+* Gen-1 = 3x voting power
+* Gen-2 = 1x voting power
+* Gen-Epics = 5x voting power
+* Gen-Merch = 2x voting power
 
 ### Post-minting ready proposals awaiting for the DAO to initiate so we can push them:
 
